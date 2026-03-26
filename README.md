@@ -17,7 +17,7 @@ Neste projeto, explorei combinações de cores utilizando `linear-gradient`, apl
 - Noções de design visual
 
 ## 🌐 Visualização
-
+https://seuusuario.github.io/gradientes-css
 
 ---
 ✨ Projeto desenvolvido durante meus estudos em front-end
